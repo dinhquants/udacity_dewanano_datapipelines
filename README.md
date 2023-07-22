@@ -72,7 +72,10 @@ aws s3 ls s3://dinh-nda/log_json_path.json
 2. Create Redshift by AWS Console
 ![AWS_Redshift](images/aws_redshift_1.png)
 
-## Implement
+## Implement 
+
+Using Pycharm to develop
+![Implement](images/Pycharm_1.png)
 
 ### Configuring the DAG
 Please refer file [udac_example_dag.py](dags%2Fudac_example_dag.py)
